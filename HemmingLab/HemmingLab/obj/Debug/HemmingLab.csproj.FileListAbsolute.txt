@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\bin\Debug\HemmingLab.exe.config
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\bin\Debug\HemmingLab.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\bin\Debug\HemmingLab.pdb
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.Form1.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.Properties.Resources.resources
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.csproj.GenerateResource.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.exe
+C:\Users\user\Desktop\вуз\7 семестр\ОИИ\HemmingLab\HemmingLab\obj\Debug\HemmingLab.pdb
